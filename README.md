@@ -1,3 +1,1 @@
-
-
-# weather-app
+This app uses the OpenWeatherMap API to get the latest weather updates. You simply enter a city name in the search box and press Enter. It then shows you the weather for that city, including the current temperature, whether it's clear, rainy, or sunny, and the day's high and low temperatures. The app is straightforward, with a search box for entering the city you want to check out. The weather information appears immediately on the screen, letting you quickly see the weather conditions, today's date, and the expected temperature range.
